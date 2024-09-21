@@ -1,3 +1,5 @@
+#Objective: testing motion commands of drone
+
 # imports Tello commands from djitellopy library
 from djitellopy import Tello
 
