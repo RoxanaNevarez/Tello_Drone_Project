@@ -1,3 +1,5 @@
+#Objetive: displaying drone battery before flying
+
 # importing Tello function from djitellopy library
 from djitellopy import Tello
 
