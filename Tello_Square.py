@@ -1,3 +1,5 @@
+#Objective: Tello drone flies in an upright square circuit
+
 # importing time and cv2 modules
 import time, cv2
 # importing Thread function from threading library
@@ -67,14 +69,4 @@ keepRecording = False
 recorder.join()
 tello.streamoff()
 tello.end()
-
-
-
-
-
-
-
-
-
-
 
