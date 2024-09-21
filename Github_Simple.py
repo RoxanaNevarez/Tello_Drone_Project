@@ -1,3 +1,5 @@
+#Early stages of learning Python programming to control drone
+
 # imports Tello commands from djitellopy library
 from djitellopy import Tello
 
