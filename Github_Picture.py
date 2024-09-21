@@ -1,3 +1,5 @@
+#Objective: gaining practice with having drone take pictures
+
 # cv2 module will be imported
 import cv2
 # Tello function will be imported from djitellopy library
