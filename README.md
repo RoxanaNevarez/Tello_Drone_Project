@@ -5,3 +5,7 @@
 Project Content:
 * Personal block-coding algorithms for beginner-level drone testing
 * Personal python algorithms for systematic testing of drone (components and performance)
+
+## **UAV Research Poster**
+**Presented at 2022 SACNAS NDiSTEM Conference**
+![Image](https://github.com/user-attachments/assets/3044bcdc-fbd2-4692-98ef-41470f401be6)
